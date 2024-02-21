@@ -13,6 +13,8 @@ class HomeScreen extends StatelessWidget {
         title: Text(
           'StarDust',
           style: TextStyle(fontFamily: 'Starstruck'),
+
+
         ),
       ),
       body: Stack(
