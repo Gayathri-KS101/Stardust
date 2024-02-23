@@ -50,6 +50,7 @@ class HomeScreen extends StatelessWidget {
                   style: TextStyle(fontFamily: 'Starstruck', fontSize: 12, color: Colors.white),
                 ),
                 SizedBox(height: 8),
+
                 Text(
                   'than in reality',
                   style: TextStyle(fontFamily: 'Starstruck', fontSize: 12, color: Colors.white),
