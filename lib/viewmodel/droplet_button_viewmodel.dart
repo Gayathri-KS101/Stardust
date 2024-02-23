@@ -47,17 +47,19 @@ class _DropletButtonState extends State<DropletButton> {
   }
 }
 
+
 class DropletButtonsRow extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        DropletButton(value: 10),
-        DropletButton(value: 20),
-        DropletButton(value: 30),
-        DropletButton(value: 40),
-        DropletButton(value: 50),
+        DropletButton(value: 1),
+        DropletButton(value: 2),
+        DropletButton(value: 3),
+        DropletButton(value: 4),
+        DropletButton(value: 5),
       ],
     );
   }
