@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'You suffer more in your imaginationnn ',
+                  'You suffer more in your imagination ',
                   style: TextStyle(fontFamily: 'Starstruck', fontSize: 12, color: Colors.white),
                 ),
                 SizedBox(height: 8),
